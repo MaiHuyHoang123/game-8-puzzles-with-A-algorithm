@@ -1,0 +1,10 @@
+C:\Users\FPT\source\repos\8puzzle\8puzzle\bin\Debug\8puzzle.exe.config
+C:\Users\FPT\source\repos\8puzzle\8puzzle\bin\Debug\8puzzle.exe
+C:\Users\FPT\source\repos\8puzzle\8puzzle\bin\Debug\8puzzle.pdb
+C:\Users\FPT\source\repos\8puzzle\8puzzle\obj\Debug\8puzzle.csproj.AssemblyReference.cache
+C:\Users\FPT\source\repos\8puzzle\8puzzle\obj\Debug\_8puzzle.Properties.Resources.resources
+C:\Users\FPT\source\repos\8puzzle\8puzzle\obj\Debug\8puzzle.csproj.GenerateResource.cache
+C:\Users\FPT\source\repos\8puzzle\8puzzle\obj\Debug\8puzzle.csproj.CoreCompileInputs.cache
+C:\Users\FPT\source\repos\8puzzle\8puzzle\obj\Debug\8puzzle.exe
+C:\Users\FPT\source\repos\8puzzle\8puzzle\obj\Debug\8puzzle.pdb
+C:\Users\FPT\source\repos\8puzzle\8puzzle\obj\Debug\_8puzzle.Form1.resources
